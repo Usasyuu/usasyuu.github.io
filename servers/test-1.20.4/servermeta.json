@@ -2,8 +2,8 @@
   "$schema": "file:///C:/Users/shuuu/Desktop/Dev/NebulaWorkSpace/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "IndustrialModServer (Minecraft 1.20.1)",
-    "description": "IndustrialModServer Running Minecraft 1.20.1 (Forge v47.2.0)",
+    "name": "test (Minecraft 1.20.4)",
+    "description": "test Running Minecraft 1.20.4",
     "icon": "icon.png",
     "address": "3.113.61.164:25565",
     "discord": {
@@ -13,9 +13,6 @@
     },
     "mainServer": false,
     "autoconnect": false
-  },
-  "forge": {
-    "version": "47.2.0"
   },
   "untrackedFiles": []
 }

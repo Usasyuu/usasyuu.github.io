@@ -1,15 +1,25 @@
 {
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
   "servers": [
     {
-      "id": "IndustrialModServer-1.20.1",
-      "name": "IndustrialModServer (Minecraft 1.20.1)",
-      "description": "IndustrialModServer Running Minecraft 1.20.1 (Forge v47.2.0)",
-      "icon": "https://usasyuu.github.io/servers/IndustrialModServer-1.20.1/icon.png",
+      "id": "test-1.20.1",
+      "name": "test (Minecraft 1.20.1)",
+      "description": "Test Server Running Minecraft 1.20.1 (Forge v47.2.0)",
+      "icon": "https://usasyuu.github.io/servers/test-1.20.1/icon.png",
       "version": "1.0.0",
       "address": "3.113.61.164:25565",
       "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
       "mainServer": false,
       "autoconnect": false,
       "modules": [
@@ -428,8 +438,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27883,
-            "url": "https://usasyuu.github.io/servers/IndustrialModServer-1.20.1/forgemods/required/[1.20.1][forge47.1.0]mod_CutAllSMP_v2.5.2.jar",
+            "url": "https://usasyuu.github.io/servers/test-1.20.1/forgemods/optionalon/[1.20.1][forge47.1.0]mod_CutAllSMP_v2.5.2.jar",
             "MD5": "730e0647efa00de38b248766d46677c8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -438,8 +451,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 33900,
-            "url": "https://usasyuu.github.io/servers/IndustrialModServer-1.20.1/forgemods/required/[1.20.1][forge47.1.0]mod_MineAllSMP_v2.6.6.jar",
+            "url": "https://usasyuu.github.io/servers/test-1.20.1/forgemods/optionalon/[1.20.1][forge47.1.0]mod_MineAllSMP_v2.6.6.jar",
             "MD5": "5a2522257fbe07fefb67187a0bc139ee"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -448,7 +464,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1127828,
-            "url": "https://usasyuu.github.io/servers/IndustrialModServer-1.20.1/forgemods/required/jei-1.20.1-forge-15.3.0.4.jar",
+            "url": "https://usasyuu.github.io/servers/test-1.20.1/forgemods/required/jei-1.20.1-forge-15.3.0.4.jar",
             "MD5": "8f2c0bbb8f691be76f0b44c1d61d94e7"
           }
         },
@@ -458,7 +474,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12542618,
-            "url": "https://usasyuu.github.io/servers/IndustrialModServer-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.5.19.jar",
+            "url": "https://usasyuu.github.io/servers/test-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.5.19.jar",
             "MD5": "982c9e1caa02c35696ac462fdeb3507b"
           }
         },
@@ -468,14 +484,32 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7145205,
-            "url": "https://usasyuu.github.io/servers/IndustrialModServer-1.20.1/forgemods/optionalon/OptiFine_1.20.1_HD_U_I6.jar",
+            "url": "https://usasyuu.github.io/servers/test-1.20.1/forgemods/optionaloff/OptiFine_1.20.1_HD_U_I6.jar",
             "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         }
       ]
+    },
+    {
+      "id": "test-1.20.4",
+      "name": "test (Minecraft 1.20.4)",
+      "description": "test Running Minecraft 1.20.4",
+      "icon": "https://usasyuu.github.io/servers/test-1.20.4/icon.png",
+      "version": "1.0.0",
+      "address": "3.113.61.164:25565",
+      "minecraftVersion": "1.20.4",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": []
     }
   ]
 }

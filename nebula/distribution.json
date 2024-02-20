@@ -10,7 +10,7 @@
     {
       "id": "Hypixel-1.8.9",
       "name": "Hypixel (Minecraft 1.8.9)",
-      "description": "Hypixel バージョン:Minecraft 1.8.9 (Forge v11.15.1.2318)",
+      "description": "Hypixel Running Minecraft 1.8.9 (Forge v11.15.1.2318)",
       "icon": "https://user-images.githubusercontent.com/49322497/70186527-61601080-16ec-11ea-8e0e-49c0f5e4edde.png",
       "version": "1.0.0",
       "address": "mc.hypixel.net",
@@ -692,6 +692,16 @@
           }
         },
         {
+          "id": "mekanism.generators:mekanismgenerators:1.12.2-9.8.3.390@jar",
+          "name": "MekanismGenerators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 336364,
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar",
+            "MD5": "d75ddb11a6c1353b046c70d8904fe61e"
+          }
+        },
+        {
           "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
@@ -710,7 +720,7 @@
     {
       "id": "Shotbow-1.12.2",
       "name": "Shotbow (Minecraft 1.12.2)",
-      "description": "Shotbow バージョン:Minecraft 1.12.2 (Forge v14.23.5.2859)",
+      "description": "Shotbowサーバー",
       "icon": "https://shotbow.net/presskit/images/icon.png",
       "version": "1.0.0",
       "address": "play.shotbow.net",
@@ -966,13 +976,13 @@
           ]
         },
         {
-          "id": "net.optifine:optifine:1.11.2_HD_U_G5@jar",
-          "name": "OptiFine 1.11.2_HD_U_G5",
+          "id": "net.optifine:optifine:1.12.2_HD_U_G6_pre1@jar",
+          "name": "OptiFine 1.12.2_HD_U_G6_pre1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2658083,
+            "size": 2668221,
             "url": "https://usasyuu.github.io/nebula/servers/Shotbow-1.12.2/forgemods/optionalon/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
-            "MD5": "8de776c1e46533cd46970a7d211472fc"
+            "MD5": "9ee4100b8d430f8c8aa82e6f3b13b87e"
           },
           "required": {
             "value": false

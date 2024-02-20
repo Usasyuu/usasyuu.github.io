@@ -470,6 +470,9 @@
             "size": 7145205,
             "url": "https://usasyuu.github.io/servers/IndustrialModServer-1.20.1/forgemods/optionalon/OptiFine_1.20.1_HD_U_I6.jar",
             "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+          },
+          "required": {
+            "value": false
           }
         }
       ]

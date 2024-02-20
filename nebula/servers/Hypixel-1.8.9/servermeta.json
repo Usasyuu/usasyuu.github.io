@@ -7,7 +7,7 @@
     "icon": "https://user-images.githubusercontent.com/49322497/70186527-61601080-16ec-11ea-8e0e-49c0f5e4edde.png",
     "address": "mc.hypixel.net",
     "mainServer": false,
-    "autoconnect": false
+    "autoconnect": true
   },
   "forge": {
     "version": "11.15.1.2318"

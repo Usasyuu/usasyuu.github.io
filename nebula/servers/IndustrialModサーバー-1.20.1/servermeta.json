@@ -7,7 +7,7 @@
     "icon": "icon.png",
     "address": "3.113.61.164:25565",
     "mainServer": false,
-    "autoconnect": false
+    "autoconnect": true
   },
   "forge": {
     "version": "47.2.0"

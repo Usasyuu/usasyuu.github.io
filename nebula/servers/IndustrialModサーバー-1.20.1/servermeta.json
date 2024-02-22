@@ -1,16 +1,16 @@
 {
   "$schema": "file:///C:/Users/shuuu/Desktop/Dev/usasyuu.github.io/nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "name": "IndustrialModサーバー (Minecraft 1.20.1)",
-    "description": "IndustrialModサーバー バージョン:Minecraft 1.20.1 (Forge v47.2.0)",
+    "description": "IndustrialModサーバー バージョン:Minecraft 1.20.1 (Forge v47.2.20)",
     "icon": "icon.png",
     "address": "52.193.174.251:25565",
     "mainServer": true,
     "autoconnect": true
   },
   "forge": {
-    "version": "47.2.0"
+    "version": "47.2.20"
   },
   "untrackedFiles": []
 }

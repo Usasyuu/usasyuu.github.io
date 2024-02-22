@@ -692,13 +692,13 @@
           }
         },
         {
-          "id": "mekanism.generators:mekanismgenerators:1.12.2-9.8.3.390@jar",
-          "name": "MekanismGenerators",
+          "id": "mekanism.generators:mekanismgenerators:10.4.6@jar",
+          "name": "Mekanism: Generators",
           "type": "ForgeMod",
           "artifact": {
-            "size": 336364,
-            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar",
-            "MD5": "d75ddb11a6c1353b046c70d8904fe61e"
+            "size": 1053795,
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/MekanismGenerators-1.20.1-10.4.6.20.jar",
+            "MD5": "d8e908a21ea09069414ae2b1ef98fbdf"
           }
         },
         {
@@ -713,6 +713,16 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "de.maxhenkel:pipez:1.20.1-1.2.5@jar",
+          "name": "Pipez",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 423184,
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/pipez-1.20.1-1.2.5.jar",
+            "MD5": "8448af4aeab6d1ca860c645c96da376d"
           }
         }
       ]

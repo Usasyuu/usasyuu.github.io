@@ -672,6 +672,19 @@
           }
         },
         {
+          "id": "org.anti_ad.mc.ipnext:inventoryprofilesnext:1.10.9@jar",
+          "name": "Inventory Profiles Next",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1362759,
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/InventoryProfilesNext-forge-1.20-1.10.9.jar",
+            "MD5": "ca5731820d77abcd6f6113d590304355"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "mezz.jei:jei:15.3.0.4@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",

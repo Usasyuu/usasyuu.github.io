@@ -682,13 +682,13 @@
           }
         },
         {
-          "id": "mekanism:mekanism:10.4.5@jar",
+          "id": "mekanism:mekanism:10.4.6@jar",
           "name": "Mekanism",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12542618,
-            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.5.19.jar",
-            "MD5": "982c9e1caa02c35696ac462fdeb3507b"
+            "size": 12550196,
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.6.20.jar",
+            "MD5": "94aaa7905a0d7a64448dd703e4378465"
           }
         },
         {

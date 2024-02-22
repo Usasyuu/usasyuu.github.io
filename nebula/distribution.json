@@ -695,6 +695,19 @@
           }
         },
         {
+          "id": "generated.forgemod:kotlinforforge:4.10.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7778600,
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/kotlinforforge-4.10.0-all.jar",
+            "MD5": "66104f85db917822d99311bcb6c71f97"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "org.anti_ad.mc:libipn:4.0.1@jar",
           "name": "LibIPN",
           "type": "ForgeMod",

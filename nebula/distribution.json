@@ -231,9 +231,9 @@
       "description": "IndustrialModサーバー バージョン:Minecraft 1.20.1 (Forge v47.2.0)",
       "icon": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/icon.png",
       "version": "1.0.0",
-      "address": "3.113.61.164:25565",
+      "address": "52.193.174.251:25565",
       "minecraftVersion": "1.20.1",
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": true,
       "modules": [
         {

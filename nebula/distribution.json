@@ -695,6 +695,19 @@
           }
         },
         {
+          "id": "org.anti_ad.mc:libipn:4.0.1@jar",
+          "name": "LibIPN",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 694207,
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/libIPN-forge-1.20-4.0.1.jar",
+            "MD5": "8053e9330cc61db3a248df36eab832f2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "mekanism:mekanism:10.4.6@jar",
           "name": "Mekanism",
           "type": "ForgeMod",

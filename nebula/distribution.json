@@ -25,7 +25,7 @@
           "artifact": {
             "size": 3805686,
             "MD5": "b97a4c5bc653c957663e7b0de17a3c09",
-            "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar"
+            "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar"
           },
           "subModules": [
             {
@@ -35,7 +35,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -45,7 +45,7 @@
               "artifact": {
                 "size": 241639,
                 "MD5": "c5cc4613bbdfba3ccf5f0ab85390d0b8",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
               }
             },
             {
@@ -55,7 +55,7 @@
               "artifact": {
                 "size": 248566,
                 "MD5": "f251ba666cccb260ff7215b2cbeee8d4",
-                "url": "https://usasyuu.github.io/repo/lib/jline/jline/2.13/jline-2.13.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/jline/jline/2.13/jline-2.13.jar"
               }
             },
             {
@@ -65,7 +65,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://usasyuu.github.io/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -75,7 +75,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://usasyuu.github.io/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -85,7 +85,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -95,7 +95,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -105,7 +105,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar"
               }
             },
             {
@@ -115,7 +115,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"
               }
             },
             {
@@ -125,7 +125,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -135,7 +135,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -145,7 +145,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -155,7 +155,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -165,7 +165,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -175,7 +175,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://usasyuu.github.io/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -185,7 +185,7 @@
               "artifact": {
                 "size": 62477,
                 "MD5": "13560a58a79b46b82057686543e8d727",
-                "url": "https://usasyuu.github.io/repo/lib/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar"
               }
             },
             {
@@ -195,7 +195,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://usasyuu.github.io/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -205,7 +205,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://usasyuu.github.io/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             }
           ]
@@ -216,7 +216,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2585014,
-            "url": "https://usasyuu.github.io/servers/Hypixel-1.8.9/forgemods/optionalon/OptiFine.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/Hypixel-1.8.9/forgemods/optionalon/OptiFine.jar",
             "MD5": "0765dc1bcbe5baa83f7c261ac2c133ed"
           },
           "required": {
@@ -229,7 +229,7 @@
       "id": "IndustrialModサーバー-1.20.1",
       "name": "IndustrialModサーバー (Minecraft 1.20.1)",
       "description": "IndustrialModサーバー バージョン:Minecraft 1.20.1 (Forge v47.2.20)",
-      "icon": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/icon.png",
+      "icon": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/icon.png",
       "version": "1.0.2",
       "address": "52.193.174.251:25565",
       "minecraftVersion": "1.20.1",
@@ -244,7 +244,7 @@
           "artifact": {
             "size": 7400,
             "MD5": "9445bd28cb8bbf3405bcacc54627a6da",
-            "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
+            "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
           },
           "subModules": [
             {
@@ -254,7 +254,7 @@
               "artifact": {
                 "size": 16922,
                 "MD5": "e33afa5bc25c738bc2d90559089e1bfe",
-                "url": "https://usasyuu.github.io/repo/versions/1.20.1-forge-47.2.20/1.20.1-forge-47.2.20.json"
+                "url": "https://usasyuu.github.io/nebula/repo/versions/1.20.1-forge-47.2.20/1.20.1-forge-47.2.20.json"
               }
             },
             {
@@ -265,7 +265,7 @@
               "artifact": {
                 "size": 118686,
                 "MD5": "a710f72f170f88737ff72a53ea1349d8",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 16517,
                 "MD5": "3521da7e51982c2ace3a21ffe4070693",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -289,7 +289,7 @@
               "artifact": {
                 "size": 4999,
                 "MD5": "4aeef0ba963dfbe0c4104b6532989988",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -301,7 +301,7 @@
               "artifact": {
                 "size": 2679250,
                 "MD5": "27de7a3f2e5c69d54bc52cb179831aa9",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-universal.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-universal.jar"
               },
               "subModules": []
             },
@@ -313,7 +313,7 @@
               "artifact": {
                 "size": 4791301,
                 "MD5": "c548aeb8e9e1cd028005b628b54f3a29",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-client.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-client.jar"
               },
               "subModules": []
             },
@@ -325,7 +325,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -349,7 +349,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -360,7 +360,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://usasyuu.github.io/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -370,7 +370,7 @@
               "artifact": {
                 "size": 121863,
                 "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
               }
             },
             {
@@ -380,7 +380,7 @@
               "artifact": {
                 "size": 72209,
                 "MD5": "7d1fce986192f71722b19754e4cb9e61",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
               }
             },
             {
@@ -390,7 +390,7 @@
               "artifact": {
                 "size": 51944,
                 "MD5": "44755681b7d6fa7143afbb438e55c20c",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
               }
             },
             {
@@ -400,7 +400,7 @@
               "artifact": {
                 "size": 91076,
                 "MD5": "ad0016249fb68bb9196babefd47b80dc",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
               }
             },
             {
@@ -410,7 +410,7 @@
               "artifact": {
                 "size": 33978,
                 "MD5": "4df0adafc78ebba404d4037987d36b61",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
               }
             },
             {
@@ -420,7 +420,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -430,7 +430,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://usasyuu.github.io/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -440,7 +440,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -450,7 +450,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -460,7 +460,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -470,7 +470,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://usasyuu.github.io/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -480,7 +480,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -490,7 +490,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -500,7 +500,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://usasyuu.github.io/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -510,7 +510,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://usasyuu.github.io/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -520,7 +520,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://usasyuu.github.io/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -530,7 +530,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://usasyuu.github.io/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -540,7 +540,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -550,7 +550,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://usasyuu.github.io/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -560,7 +560,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://usasyuu.github.io/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -570,7 +570,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://usasyuu.github.io/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -580,7 +580,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://usasyuu.github.io/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -590,7 +590,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -600,7 +600,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -610,7 +610,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://usasyuu.github.io/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -620,7 +620,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -630,7 +630,7 @@
               "artifact": {
                 "size": 264185,
                 "MD5": "acee22eaf221c8cd61225002596f7640",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.20/fmlloader-1.20.1-47.2.20.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.20/fmlloader-1.20.1-47.2.20.jar"
               }
             },
             {
@@ -640,7 +640,7 @@
               "artifact": {
                 "size": 170553,
                 "MD5": "b54b6fe4bd44788dcc6655f3399541f4",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.20/fmlearlydisplay-1.20.1-47.2.20.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.20/fmlearlydisplay-1.20.1-47.2.20.jar"
               }
             }
           ]
@@ -651,7 +651,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27883,
-            "url": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/[1.20.1][forge47.1.0]mod_CutAllSMP_v2.5.2.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/[1.20.1][forge47.1.0]mod_CutAllSMP_v2.5.2.jar",
             "MD5": "730e0647efa00de38b248766d46677c8"
           },
           "required": {
@@ -664,7 +664,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 33900,
-            "url": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/[1.20.1][forge47.1.0]mod_MineAllSMP_v2.6.6.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/[1.20.1][forge47.1.0]mod_MineAllSMP_v2.6.6.jar",
             "MD5": "5a2522257fbe07fefb67187a0bc139ee"
           },
           "required": {
@@ -677,7 +677,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1362759,
-            "url": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/InventoryProfilesNext-forge-1.20-1.10.9.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/InventoryProfilesNext-forge-1.20-1.10.9.jar",
             "MD5": "ca5731820d77abcd6f6113d590304355"
           },
           "required": {
@@ -690,7 +690,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1127828,
-            "url": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/jei-1.20.1-forge-15.3.0.4.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/jei-1.20.1-forge-15.3.0.4.jar",
             "MD5": "8f2c0bbb8f691be76f0b44c1d61d94e7"
           }
         },
@@ -700,7 +700,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7778600,
-            "url": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/kotlinforforge-4.10.0-all.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/kotlinforforge-4.10.0-all.jar",
             "MD5": "66104f85db917822d99311bcb6c71f97"
           },
           "required": {
@@ -713,7 +713,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 694207,
-            "url": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/libIPN-forge-1.20-4.0.1.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/libIPN-forge-1.20-4.0.1.jar",
             "MD5": "8053e9330cc61db3a248df36eab832f2"
           },
           "required": {
@@ -726,7 +726,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12550196,
-            "url": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.6.20.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.6.20.jar",
             "MD5": "94aaa7905a0d7a64448dd703e4378465"
           }
         },
@@ -736,7 +736,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1053795,
-            "url": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/MekanismGenerators-1.20.1-10.4.6.20.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/MekanismGenerators-1.20.1-10.4.6.20.jar",
             "MD5": "d8e908a21ea09069414ae2b1ef98fbdf"
           }
         },
@@ -746,7 +746,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7113653,
-            "url": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionaloff/OptiFine_1.20.1_HD_U_I5.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionaloff/OptiFine_1.20.1_HD_U_I5.jar",
             "MD5": "3f2cbfe066a529a18c844ec42d1ddb6f"
           },
           "required": {
@@ -760,7 +760,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 423184,
-            "url": "https://usasyuu.github.io/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/pipez-1.20.1-1.2.5.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/IndustrialMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/required/pipez-1.20.1-1.2.5.jar",
             "MD5": "8448af4aeab6d1ca860c645c96da376d"
           }
         }
@@ -789,7 +789,7 @@
           "artifact": {
             "size": 4466108,
             "MD5": "fda01cd3cae80c2c6348ac3fc26e0af8",
-            "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
+            "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
           },
           "subModules": [
             {
@@ -799,7 +799,7 @@
               "artifact": {
                 "size": 12345,
                 "MD5": "1959bb357e54a9666dd80d744b524639",
-                "url": "https://usasyuu.github.io/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
+                "url": "https://usasyuu.github.io/nebula/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
               }
             },
             {
@@ -809,7 +809,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -819,7 +819,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -829,7 +829,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://usasyuu.github.io/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -839,7 +839,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://usasyuu.github.io/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -849,7 +849,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://usasyuu.github.io/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -859,7 +859,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -869,7 +869,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -879,7 +879,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -889,7 +889,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -899,7 +899,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -909,7 +909,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -919,7 +919,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -929,7 +929,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -939,7 +939,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://usasyuu.github.io/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -949,7 +949,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://usasyuu.github.io/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -959,7 +959,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://usasyuu.github.io/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -969,7 +969,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://usasyuu.github.io/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -979,7 +979,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://usasyuu.github.io/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -989,7 +989,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://usasyuu.github.io/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             },
             {
@@ -999,7 +999,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://usasyuu.github.io/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -1009,7 +1009,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://usasyuu.github.io/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -1019,7 +1019,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://usasyuu.github.io/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             }
           ]
@@ -1030,7 +1030,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2668221,
-            "url": "https://usasyuu.github.io/servers/Shotbow-1.12.2/forgemods/optionalon/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/Shotbow-1.12.2/forgemods/optionalon/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
             "MD5": "9ee4100b8d430f8c8aa82e6f3b13b87e"
           },
           "required": {
@@ -1043,7 +1043,7 @@
       "id": "魔法サーバー-1.19.2",
       "name": "魔法サーバー-1.19.2",
       "description": "魔法サーバー バージョン:Minecraft 1.19.2 (Forge v1.19.2-43.4.2)",
-      "icon": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/icon.png",
+      "icon": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/icon.png",
       "version": "1.0.0",
       "address": "18.180.231.194:25565",
       "minecraftVersion": "1.19.2",
@@ -1058,7 +1058,7 @@
           "artifact": {
             "size": 7373,
             "MD5": "780fd232c6d48d040a2721a13b2b401e",
-            "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar"
+            "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar"
           },
           "subModules": [
             {
@@ -1068,7 +1068,7 @@
               "artifact": {
                 "size": 15497,
                 "MD5": "a51082f4e46c3d3691b8fe39a2c8f7e5",
-                "url": "https://usasyuu.github.io/repo/versions/1.19.2-forge-43.4.2/1.19.2-forge-43.4.2.json"
+                "url": "https://usasyuu.github.io/nebula/repo/versions/1.19.2-forge-43.4.2/1.19.2-forge-43.4.2.json"
               }
             },
             {
@@ -1079,7 +1079,7 @@
               "artifact": {
                 "size": 113639,
                 "MD5": "739d88f811db64c2fb5b29cc725ac4de",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar"
               },
               "subModules": []
             },
@@ -1091,7 +1091,7 @@
               "artifact": {
                 "size": 16490,
                 "MD5": "93d789f3118e4bc0dc3e8a877c999329",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar"
               },
               "subModules": []
             },
@@ -1103,7 +1103,7 @@
               "artifact": {
                 "size": 4983,
                 "MD5": "9b86de159a385174b6af06845645eed2",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar"
               },
               "subModules": []
             },
@@ -1115,7 +1115,7 @@
               "artifact": {
                 "size": 2715420,
                 "MD5": "ca71efcf50a0c6fc7b21ce091b250987",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-universal.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-universal.jar"
               },
               "subModules": []
             },
@@ -1127,7 +1127,7 @@
               "artifact": {
                 "size": 5419341,
                 "MD5": "9988c4852a4dd1877d5310de94357094",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-client.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-client.jar"
               },
               "subModules": []
             },
@@ -1139,7 +1139,7 @@
               "artifact": {
                 "size": 17332865,
                 "MD5": "70476cb0e2de11b97d913169c3b9d5a8",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar"
               },
               "subModules": []
             },
@@ -1151,7 +1151,7 @@
               "artifact": {
                 "size": 11637719,
                 "MD5": "7ae1ac1daf86584f93ae83dd916d3bdb",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar"
               },
               "subModules": []
             },
@@ -1163,7 +1163,7 @@
               "artifact": {
                 "size": 10007043,
                 "MD5": "3014cfce92de3aff55cc50908a510051",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar"
               },
               "subModules": []
             },
@@ -1174,7 +1174,7 @@
               "artifact": {
                 "size": 87315,
                 "MD5": "b49ceccef2c091769f134c47c108cb8b",
-                "url": "https://usasyuu.github.io/repo/lib/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar"
               }
             },
             {
@@ -1184,7 +1184,7 @@
               "artifact": {
                 "size": 125428,
                 "MD5": "3957b18bf02a62edcb6726d074b90b08",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
               }
             },
             {
@@ -1194,7 +1194,7 @@
               "artifact": {
                 "size": 73426,
                 "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
               }
             },
             {
@@ -1204,7 +1204,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
               }
             },
             {
@@ -1214,7 +1214,7 @@
               "artifact": {
                 "size": 93784,
                 "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
               }
             },
             {
@@ -1224,7 +1224,7 @@
               "artifact": {
                 "size": 34776,
                 "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
-                "url": "https://usasyuu.github.io/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
               }
             },
             {
@@ -1234,7 +1234,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -1244,7 +1244,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://usasyuu.github.io/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -1254,7 +1254,7 @@
               "artifact": {
                 "size": 52624,
                 "MD5": "7c93693a70962a1c1893e3c058dca5cf",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar"
               }
             },
             {
@@ -1264,7 +1264,7 @@
               "artifact": {
                 "size": 32714,
                 "MD5": "8c04b8c26ac1d55c281bfeaa71731414",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar"
               }
             },
             {
@@ -1274,7 +1274,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -1284,7 +1284,7 @@
               "artifact": {
                 "size": 130263,
                 "MD5": "3e171edcc29e762d2ecafffabb9e9341",
-                "url": "https://usasyuu.github.io/repo/lib/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar"
               }
             },
             {
@@ -1294,7 +1294,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -1304,7 +1304,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://usasyuu.github.io/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -1314,7 +1314,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://usasyuu.github.io/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -1324,7 +1324,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://usasyuu.github.io/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -1334,7 +1334,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "https://usasyuu.github.io/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -1344,7 +1344,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -1354,7 +1354,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://usasyuu.github.io/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -1364,7 +1364,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://usasyuu.github.io/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -1374,7 +1374,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://usasyuu.github.io/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -1384,7 +1384,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://usasyuu.github.io/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -1394,7 +1394,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "5e859d6320cb16055febaedacb8b9806",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar"
               }
             },
             {
@@ -1404,7 +1404,7 @@
               "artifact": {
                 "size": 15242,
                 "MD5": "332b118877d33c715f3ee67b75bffdd7",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar"
               }
             },
             {
@@ -1414,7 +1414,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://usasyuu.github.io/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -1424,7 +1424,7 @@
               "artifact": {
                 "size": 32052,
                 "MD5": "f4efd51f520cb4c98483c040bdc58aab",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar"
               }
             },
             {
@@ -1434,7 +1434,7 @@
               "artifact": {
                 "size": 261455,
                 "MD5": "7826ce100bcf7f9ef847b1e1c1a25a1b",
-                "url": "https://usasyuu.github.io/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.4.2/fmlloader-1.19.2-43.4.2.jar"
+                "url": "https://usasyuu.github.io/nebula/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.4.2/fmlloader-1.19.2-43.4.2.jar"
               }
             }
           ]
@@ -1445,7 +1445,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23258002,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/aether-1.19.2-1.4.2-forge.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/aether-1.19.2-1.4.2-forge.jar",
             "MD5": "af7fd879abd2974fe3b1f64902b7842f"
           }
         },
@@ -1455,7 +1455,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14558041,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/ars_nouveau-1.19.2-3.23.0.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/ars_nouveau-1.19.2-3.23.0.jar",
             "MD5": "62652f100fd0380d363503c128443967"
           }
         },
@@ -1465,7 +1465,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37254,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/caelus-forge-1.19.2-3.0.0.6.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/caelus-forge-1.19.2-3.0.0.6.jar",
             "MD5": "918f8c78474edc74a7b489b803124492"
           }
         },
@@ -1475,7 +1475,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 311480,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/configured-2.1.1-1.19.2.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/configured-2.1.1-1.19.2.jar",
             "MD5": "e423b48c33e2b9c6be0ad43ae682f12a"
           }
         },
@@ -1485,7 +1485,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15529295,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/create-1.19.2-0.5.1.h.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/create-1.19.2-0.5.1.h.jar",
             "MD5": "be43c5bea0bf2ecfa8391e9c7a5b3c7a"
           }
         },
@@ -1495,7 +1495,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 288455,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/curios-forge-1.19.2-5.1.6.3.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/curios-forge-1.19.2-5.1.6.3.jar",
             "MD5": "9e4cd43f227db93debfaa1aff50d686b"
           }
         },
@@ -1505,7 +1505,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 892685,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/CyclopsCore-1.19.2-1.19.5.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/CyclopsCore-1.19.2-1.19.5.jar",
             "MD5": "eba50c4f873f89fd4751437c128cb7ba"
           }
         },
@@ -1515,7 +1515,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11970690,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/eeeabsmobs-1.19.2-0.95.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/eeeabsmobs-1.19.2-0.95.jar",
             "MD5": "f099d4d2d40f0f20a208babd2beeb55f"
           }
         },
@@ -1525,7 +1525,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1229562,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/epicsamurai-0.0.17-1.19.2-forge.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/epicsamurai-0.0.17-1.19.2-forge.jar",
             "MD5": "f4a348e516b64558d32676f1bca452ea"
           }
         },
@@ -1535,7 +1535,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2690256,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/EvilCraft-1.19.2-1.2.39.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/EvilCraft-1.19.2-1.2.39.jar",
             "MD5": "ea05e633f36c077cf88210369d58b511"
           }
         },
@@ -1545,7 +1545,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2769499,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/FarmersDelight-1.19.2-1.2.4.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/FarmersDelight-1.19.2-1.2.4.jar",
             "MD5": "33309d175ba1410ac918f7ceac869a34"
           }
         },
@@ -1555,7 +1555,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2938383,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/geckolib-forge-1.19-3.1.40.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/geckolib-forge-1.19-3.1.40.jar",
             "MD5": "99b50d68f49918186714abf7746f0249"
           }
         },
@@ -1565,7 +1565,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16390905,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/HeatAndClimate-1.19.2-v4-beta14.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/HeatAndClimate-1.19.2-v4-beta14.jar",
             "MD5": "8c2ae916af801e24449b2d0d39f2079b"
           }
         },
@@ -1575,7 +1575,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8648543,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/irons_spellbooks-1.19.2-3.4.0.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/irons_spellbooks-1.19.2-3.4.0.jar",
             "MD5": "4a676016d66570dbaf832fd2383c8b08"
           }
         },
@@ -1585,7 +1585,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1090832,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/optionalon/jei-1.19.2-forge-11.6.0.1019.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/optionalon/jei-1.19.2-forge-11.6.0.1019.jar",
             "MD5": "9715fec8116470c3c88d27b7efd4ebed"
           },
           "required": {
@@ -1598,7 +1598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6924339,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/optionalon/OptiFine_1.19.2_HD_U_I2.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/optionalon/OptiFine_1.19.2_HD_U_I2.jar",
             "MD5": "0d993ded4b5172124a2184a4b02ec9d6"
           },
           "required": {
@@ -1611,7 +1611,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 635370,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/Patchouli-1.19.2-77.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/Patchouli-1.19.2-77.jar",
             "MD5": "5727784bad9e215a74a64107c1e45036"
           }
         },
@@ -1621,7 +1621,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181297,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/player-animation-lib-forge-1.0.2.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/player-animation-lib-forge-1.0.2.jar",
             "MD5": "32be10092ee8672a2e3a36a019007a96"
           }
         },
@@ -1631,7 +1631,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 96499,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/TerraBlender-forge-1.19.2-2.0.1.136.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/TerraBlender-forge-1.19.2-2.0.1.136.jar",
             "MD5": "ed2fe6eb99f5d399db71e71f209de2ac"
           }
         },
@@ -1641,7 +1641,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 130344,
-            "url": "https://usasyuu.github.io/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/usefulspyglass-forge-1.19.2-0.4.0.jar",
+            "url": "https://usasyuu.github.io/nebula/servers/%E9%AD%94%E6%B3%95%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/usefulspyglass-forge-1.19.2-0.4.0.jar",
             "MD5": "b044c158246de2916428342f9ea12c98"
           }
         }

@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///C:/Users/shuuu/Desktop/usasyuu.github.io/nebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "魔法サーバー-1.19.2",
+    "description": "魔法サーバー バージョン:Minecraft 1.19.2 (Forge v1.19.2-43.4.2)",
+    "icon": "icon.png",
+    "address": "18.180.231.194:25565",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "43.4.2"
+  },
+  "untrackedFiles": []
+}

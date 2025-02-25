@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///C:/Users/shuuu/usasyuu.github.io/nebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "newModサーバー (Minecraft 1.19.2)",
+    "description": "newModサーバー Running Minecraft 1.19.2 (Forge v43.4.0)",
+    "icon": "",
+    "address": "18.176.87.240:25565",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "43.4.0"
+  },
+  "untrackedFiles": []
+}

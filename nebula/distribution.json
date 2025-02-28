@@ -473,6 +473,19 @@
             "value": false,
             "def": false
           }
+        },
+        {
+          "id": "net.tslat.tes:tslatentitystatus:1.2.1@jar",
+          "name": "TES",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 110834,
+            "url": "http://usasyuu.github.io/nebula/servers/newMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/optionalon/TES-forge-1.19.2-1.2.1.jar",
+            "MD5": "9420abfc35492563e1d79dc4e5513f2f"
+          },
+          "required": {
+            "value": false
+          }
         }
       ]
     }

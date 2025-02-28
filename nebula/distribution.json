@@ -461,17 +461,29 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.19.2_HD_U_I2@jar",
-          "name": "OptiFine",
+          "id": "net.coderbot.iris:oculus:1.6.9@jar",
+          "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6924339,
-            "url": "http://usasyuu.github.io/nebula/servers/newMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/optionaloff/OptiFine_1.19.2_HD_U_I2.jar",
-            "MD5": "0d993ded4b5172124a2184a4b02ec9d6"
+            "size": 3499284,
+            "url": "http://usasyuu.github.io/nebula/servers/newMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/optionalon/oculus-mc1.19.2-1.6.9.jar",
+            "MD5": "5c62ae78fcc5baba124c9ac7f950597e"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.2c@jar",
+          "name": "Rubidium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1407451,
+            "url": "http://usasyuu.github.io/nebula/servers/newMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/optionalon/rubidium-mc1.19.2-0.6.2c.jar",
+            "MD5": "b9d54d5171598463ef4456083eeb3ce8"
+          },
+          "required": {
+            "value": false
           }
         },
         {

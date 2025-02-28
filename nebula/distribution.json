@@ -448,6 +448,19 @@
           }
         },
         {
+          "id": "mezz.jei:jei:11.8.1.1034@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1177872,
+            "url": "http://usasyuu.github.io/nebula/servers/newMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/optionalon/jei-1.19.2-forge-11.8.1.1034.jar",
+            "MD5": "98d31def2ac964ae99575ccb329d8538"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.optifine:optifine:1.19.2_HD_U_I2@jar",
           "name": "OptiFine",
           "type": "ForgeMod",

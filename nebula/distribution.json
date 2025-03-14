@@ -453,11 +453,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 295119,
-            "url": "http://usasyuu.github.io/nebula/servers/newMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/optionalon/ironchest-1.19.2-14.2.7.jar",
+            "url": "http://usasyuu.github.io/nebula/servers/newMod%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.19.2/forgemods/required/ironchest-1.19.2-14.2.7.jar",
             "MD5": "7e2cee5753aeb0c9013fba2d54d55e35"
-          },
-          "required": {
-            "value": false
           }
         },
         {

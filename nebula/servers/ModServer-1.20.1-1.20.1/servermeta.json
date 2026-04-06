@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/shuuu/Desktop/usasyuu.github.io/usasyuu.github.io/nebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "ModServer-1.20.1 (Minecraft 1.20.1)",
+    "description": "ModServer-1.20.1 Running Minecraft 1.20.1 (Forge v47.4.1)",
+    "icon": "",
+    "address": "18.180.107.50:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.1"
+  },
+  "untrackedFiles": []
+}
